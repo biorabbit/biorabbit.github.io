@@ -1,6 +1,9 @@
-Title: "Piano performnces and records"
-This is the page for all my performances during undergraduate study in PKU. The videos are uploaded by PKU Piano Association to bilibili. Meanwhile, some private records are also downloadable on this site.
+---
+title: "Piano performnces and records"
+---
 
+
+This is the page for all my performances during undergraduate study in PKU. The videos are uploaded by PKU Piano Association to bilibili. Meanwhile, some private records are also downloadable on this site.
 
 # Performances
 * [Brahms: Sonata for 2 pianos, Op.34b\ II. Andante, un poco Adagio](https://www.bilibili.com/video/BV1q4411L7wH?p=2)
@@ -10,14 +13,29 @@ This is the page for all my performances during undergraduate study in PKU. The 
 * [Debussy: Ballade](https://www.bilibili.com/video/BV19e411p7qs?p=6)
 
 * [Schmitt: 7 Pieces for Piano 4 Hands, Op.15\ I. Somnolence](https://www.bilibili.com/video/BV19e411p7qs?p=19)
+
 * [Scriabin: Fantasy for 2 Pianos](https://www.bilibili.com/video/BV1qp4y1e7Kt?p=6)
+
 * [Grieg: Violin Sonata No.2 in G Major, Op.13\ II. Allegretto Tranquillo](https://www.bilibili.com/video/BV1mv41147e2?p=5)
+
 * [Debussy: Images, Book 2, L112\ I. Cloches a travers les feuilles](https://www.bilibili.com/video/BV1qf4y167vJ?p=15)
+
 * [Debussy: Petite Suite, L.65](https://www.bilibili.com/video/BV1E54y1p7EL?p=6)
+
 * [Faure: Piano Quartet No.2 in G Minor, Op. 45\ I. Allegro molto moderato](https://www.bilibili.com/video/BV1RZ4y1972Z?p=14)
+
 * [Debussy: Suite Bergamasque\ 4. Passepied](https://www.bilibili.com/video/BV1tv4y1c7o8)
+
 * [Lalo: Piano Trio No.3 in A Minor, Op.26\ I. Allegro appassionato\ II. Presto](https://www.bilibili.com/video/BV1yB4y157rw)
+
 * [Grieg: Violin Sonata No. 3 in C Minor, Op. 45\ II. Allegretto espressivo alla Romanza](https://www.bilibili.com/video/BV1dd4y1A7b3)
 
 
 # Records
+* [Beethoven: Fur Elise, WoO 59](music_records/for_elise.mp3)
+
+* [Debussy: Suite Bergamasque\ 3. Clair de Lune](music_records/clair_de_lune.mp3)
+
+# External Link
+[PKU Piano Association](https://space.bilibili.com/431443026/)
+
