@@ -1,0 +1,27 @@
+name: "biorabbit's website"
+navbar:
+  title: "biorabbit"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: 'About'
+      href: about.html
+    - text: 'Homeworks' ## setting up a drop down menu
+      menu:
+        - text: 'P8104'
+          href: hw_p8104.html
+        - text: 'P8105'
+          href: hw_p8105.html
+        - text: 'P8130'
+          href: hw_p8130.html
+    - text: 'Piano'
+      href: Piano.html
+
+
+output:
+  html_document:
+    theme: cerulean ## Preference
+#    highlight: textmate ## Preference
+#    include:
+#      after_body: footer.html ## Input html for a custom footer
+#    css: styles.css ## custom CSS
