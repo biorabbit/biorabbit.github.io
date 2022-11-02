@@ -11,7 +11,7 @@ title: "P8105"
 
 *[Homework 3](https://github.com/biorabbit/p8105_hw3_zj237/blob/main/p8105_hw3_zj237.md)
 
-*[Homework 4](https://github.com/biorabbit/p8105_hw4_zj2357)
+*[Homework 4](homeworks/p8105/p8105_hw4_zj2357.html)
 
 # Projects
 *[Midterm](https://github.com/biorabbit/p8105_mtp_zj2357/blob/main/p8105_mtp_zj2357.md)
