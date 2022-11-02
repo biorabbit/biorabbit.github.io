@@ -7,9 +7,8 @@ Hello! I am a first year MS Biostatistics student in [Columbia University](https
 
 # Academic
 For detailed info, please refer to my CV:
-[Download](academic/CV_Zekai_Jin.pdf)
-<img src="academic/CV_Zekai_Jin.pdf">
 
+[Download](academic/CV_Zekai_Jin.pdf)
 
 # Music
 I enjoy playing French Impressionism music from Claude Debussy, Maurice Ravel etc. During my undergraduate study, I joined the PKU Piano Association, participated in multiple student concerts, and became the director of Performance department for academic year 2020-2021. The records for these performances are availiable at the [Piano](Piano.html) page.

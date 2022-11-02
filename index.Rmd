@@ -5,7 +5,8 @@ title: "Biorabbit's website"
 
 
 
-<img src="images/main_page.JPG" style="width:50%">
+<img src="images/main_page.JPG" style="width:75%">
+
 Photo taken at Roll-Tailed Stone Fish, Peking University, March 2022. All Rights Reserved.
 
 This is my personal website! You can find my [personal info](about.html), my homeworks and projects for courses taken in Columbia Univiersy, and my [piano records](Piano.html) since my undergraduate study in Peking University.
